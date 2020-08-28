@@ -1,5 +1,10 @@
 # Non-breakable-spaces Highlighter Plugin
 
+## IMPORTANT NOTICE
+
+I do not support this project any longer as Jetbrains released a fix in 2020.2. With this upgrade you will see a |NBSP| block, making this plugin irrelevant. Still, thanks for your interest!
+
+
 This is a Jetbrains plugin allowing users to highlight all usages of non-breakable spaces.
 
 ### Requirements
